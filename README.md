@@ -1,2 +1,2 @@
-# React.js
+# React js
 Created with CodeSandbox
